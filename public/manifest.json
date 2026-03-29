@@ -1,0 +1,18 @@
+{
+  "name": "Wanderers of French",
+  "short_name": "Wanderers",
+  "description": "Master French with Confidence - Learn French from Beginner to Advanced with Personal One-to-One Guidance",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
