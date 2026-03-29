@@ -9,14 +9,7 @@ const Hero = () => {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20 md:py-32">
         <div className="text-center">
-          {/* French Flag Accent */}
-          <div className="flex justify-center mb-6">
-            <div className="flex space-x-1">
-              <div className="w-2 h-6 sm:w-3 sm:h-8 bg-blue-600 rounded-l"></div>
-              <div className="w-2 h-6 sm:w-3 sm:h-8 bg-white"></div>
-              <div className="w-2 h-6 sm:w-3 sm:h-8 bg-red-600 rounded-r"></div>
-            </div>
-          </div>
+         
 
           {/* Main Heading */}
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-playfair font-bold text-white mb-4 sm:mb-6 animate-fade-in">
